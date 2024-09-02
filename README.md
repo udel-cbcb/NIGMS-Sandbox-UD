@@ -34,8 +34,86 @@ The landscape of biomedical research is experiencing a fundamental shift, transi
 ## **Data**
 
 
-## **Submodules**
+## **Module Outline**
+**Submodule 1 - Introduction**
 
+Learn core concepts, diverse applications, introductory algorithms, ethical considerations, and data challenges.
+
+- Lecture
+  - Introduction to AI/ML
+- Live Demo
+  - Introduction to NumPy
+  - Introduction to Pandas
+- Exercise
+  - NumPy Exercise
+  - Pandas Exercise
+
+**Submodule 2 - FAIR Data Principles, Data-Centric AI/ML, and Responsible AI/ML**
+
+Learn FAIR principles for responsible data management, evaluate data quality and AI/ML readiness, and understand fairness, transparency, and accountability in AI/ML development and deployment.
+
+- Lecture
+  - FAIR Data Principles
+  - Data Readiness for AI/ML Checklist
+  - Data-Centric AI/ML
+  - Responsible AI/ML
+- Live Demo
+- Exercise
+
+**Submodule 3 - Data Preparation**
+
+Learn practical data cleaning techniques, as well as feature engineering, feature scaling, and feature selection techniques.
+
+- Lecture
+  - Data Collection and Data Preparation
+  - Feature Engineering, Scaling and Selection
+- Live Demo
+	- Data Cleaning
+	  - Basic Data Clearning
+	  - Marking and Removal of Missing Data
+	  - Outlier Identification and Removal
+	  - Missing Data Imputation
+	- Feature Engineering
+	  - Encode Categorical Data
+	  - Change Numerical Data Distribution
+	  - Derive New Input Variables    
+	- Feature Scaling
+	  - Numerical Data
+	  - Data With Outliers
+	- Feature Selection
+	  - Numerical Input Features
+	  - Categorical Input Features
+	  - Recursive Feature Elimination
+- Exercise
+	- Data Wrangling Exercise
+	- Feature Engineering Exercise
+	- Feature Scaling Exercise
+	- Feature Selection Exercise
+
+**Submodule 4 - Model Building, Evaluation, Interpretation, and Deployment**	 
+
+Explore different AI/ML model types, and model evaluation techniques, delve into interpretability methods, and learn best practices for model deployment.
+
+- Lecture
+  - AI/ML Models and Model Evaluation
+  - Model Tuning, Interpretation and Deployment
+- Live Demo
+	- Model Building and Evaluation
+	- Model Tuning, Interpretation, Deployment
+- Exercise
+	- Exploratory Analysis and Model Prediction with Biomedical Data
+
+**Submodule 5 - AI/ML for Biomedical Applications**
+
+Show different types of AI/ML algorithms and their suitability for biomedical data. Explore real-world examples of AI/ML in various areas of biomedicine.
+
+- Lecture
+  - AI/ML Applications in Biomedicine
+  - Introduction to Deep Learning
+- Live Demo
+	- Pfam protein sequence classification using Tensorflow and Keras
+- Exercise
+	- Protein 3D structure prediction using AlphaFold2
 
 ## **Funding**
 The creation of this training module was supported by the National Institute Of General Medical Sciences of the National Institutes of Health under Award Number 3T32GM142603-03S1. Any opinions, findings, and conclusions, or recommendations expressed in this material are those of the authors and do not necessarily reflect the views 
