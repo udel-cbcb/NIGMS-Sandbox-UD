@@ -1,4 +1,4 @@
-# [Module-Name]
+# Practical Data-Centric AI/ML for Biomedical Researchers
 ---------------------------------
 
 ## **Contents**
