@@ -9,7 +9,7 @@
 - [**Getting Started**](#getting-started)
 - [**Software Requirements**](#software-requirements)
 - [**Architecture Design**](#architecture-design)
-- [**Data**](#data)
+- [**Data**](#data))
 - [**Funding**](#funding)
 - [**License for Data**](#license-for-data)
 
@@ -34,8 +34,16 @@ The landscape of biomedical research is experiencing a fundamental shift, transi
 ## **Data**
 
 
-## **Funding**
+## **Submodules**
 
+
+## **Funding**
+The creation of this training module was supported by the National Institute Of General Medical Sciences of the National Institutes of Health under Award Number 3T32GM142603-03S1. Any opinions, findings, and conclusions, or recommendations expressed in this material are those of the authors and do not necessarily reflect the views 
+of any of the funding agencies.
 
 ## **License for Data**
+Text and materials are licensed under a Creative Commons CC-BY-NC-SA license. The license allows you to copy, remix and redistribute any of our publicly available materials, under the condition that you attribute the work (details in the license) and do not make profits from it. More information is available [here](https://tilburgsciencehub.com/about/#license).
 
+![Creative commons license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
