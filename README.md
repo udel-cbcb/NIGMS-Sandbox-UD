@@ -9,7 +9,7 @@
 - [**Getting Started**](#getting-started)
 - [**Software Requirements**](#software-requirements)
 - [**Architecture Design**](#architecture-design)
-- [**Data**](#data))
+- [**Data**](#data)
 - [**Funding**](#funding)
 - [**License for Data**](#license-for-data)
 
