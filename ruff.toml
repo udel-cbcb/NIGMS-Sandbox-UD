@@ -1,2 +1,8 @@
 [lint]
 select = ["ALL"]
+ignore = [
+  "ANN001", # missing-type-function-argument
+  "ANN201", # missing-return-type-undocumented-public-function
+  "CPY001", # missing-copyright-notice
+  "T201",   # print
+]
