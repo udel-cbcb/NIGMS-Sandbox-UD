@@ -166,10 +166,8 @@ cython_debug/
 
 /_*
 /.devcontainer
-/.vscode
 /Dockerfile
 /justfile
-/ruff.toml
 
 # Files created by notebooks
 /Submodule1/Live_Demos/foo.*
