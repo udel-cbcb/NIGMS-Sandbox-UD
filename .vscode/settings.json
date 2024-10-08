@@ -8,13 +8,18 @@
     "Ergin",
     "Fatih",
     "fillna",
+    "iloc",
     "introns",
     "isin",
     "isna",
     "Kemal",
     "ndarray",
+    "numpy",
     "openpyxl",
     "protonation",
-    "randn"
+    "quantile",
+    "randn",
+    "simplemaps",
+    "worldcities"
   ]
 }
