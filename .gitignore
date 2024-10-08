@@ -170,4 +170,5 @@ cython_debug/
 /justfile
 
 # Files created by notebooks
+/Submodule1/Exercises/*.csv
 /Submodule1/Live_Demos/foo.*
