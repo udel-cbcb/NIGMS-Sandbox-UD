@@ -59,7 +59,6 @@ Learn FAIR principles for responsible data management, evaluate data quality and
   - Data Readiness for AI/ML Checklist
   - Data-Centric AI/ML
   - Responsible AI/ML
-- Tutorial
 - Exercise
 
 **Submodule 3 - Data Preparation**
