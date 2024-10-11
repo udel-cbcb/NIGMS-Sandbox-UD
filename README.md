@@ -41,7 +41,7 @@ Learn core concepts, diverse applications, introductory algorithms, ethical cons
 
 - Lecture
   - Introduction to AI/ML
-- Live Demo
+- Tutorial
   - Introduction to NumPy
   - Introduction to Pandas
 - Exercise
@@ -57,7 +57,7 @@ Learn FAIR principles for responsible data management, evaluate data quality and
   - Data Readiness for AI/ML Checklist
   - Data-Centric AI/ML
   - Responsible AI/ML
-- Live Demo
+- Tutorial
 - Exercise
 
 **Submodule 3 - Data Preparation**
@@ -67,7 +67,7 @@ Learn practical data cleaning techniques, as well as feature engineering, featur
 - Lecture
   - Data Collection and Data Preparation
   - Feature Engineering, Scaling and Selection
-- Live Demo
+- Tutorial
 	- Data Cleaning
 	  - Basic Data Clearning
 	  - Marking and Removal of Missing Data
@@ -97,7 +97,7 @@ Explore different AI/ML model types, and model evaluation techniques, delve into
 - Lecture
   - AI/ML Models and Model Evaluation
   - Model Tuning, Interpretation and Deployment
-- Live Demo
+- Tutorial
 	- Model Building and Evaluation
 	- Model Tuning, Interpretation, Deployment
 - Exercise
@@ -110,7 +110,7 @@ Show different types of AI/ML algorithms and their suitability for biomedical da
 - Lecture
   - AI/ML Applications in Biomedicine
   - Introduction to Deep Learning
-- Live Demo
+- Tutorial
 	- Pfam protein sequence classification using Tensorflow and Keras
 - Exercise
 	- Protein 3D structure prediction using AlphaFold2
