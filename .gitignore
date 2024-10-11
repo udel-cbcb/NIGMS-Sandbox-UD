@@ -171,5 +171,5 @@ cython_debug/
 
 # Files created by notebooks
 /Submodule1/Live_Demos/foo.*
-.github
-.vscode
+.github/
+.vscode/
