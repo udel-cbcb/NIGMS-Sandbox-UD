@@ -3,15 +3,18 @@
 
 ## **Contents**
 
-- [**Overview**](#overview)
-- [**Background**](#background)
-- [**Before Starting**](#before-starting)
-- [**Getting Started**](#getting-started)
-- [**Software Requirements**](#software-requirements)
-- [**Architecture Design**](#architecture-design)
-- [**Data**](#data)
-- [**Funding**](#funding)
-- [**License for Data**](#license-for-data)
+- [Practical Data-Centric AI/ML for Biomedical Researchers](#practical-data-centric-aiml-for-biomedical-researchers)
+	- [**Contents**](#contents)
+	- [**Overview**](#overview)
+	- [**Background**](#background)
+	- [**Before Starting**](#before-starting)
+	- [**Getting Started**](#getting-started)
+	- [**Software Requirements**](#software-requirements)
+	- [**Architecture Design**](#architecture-design)
+	- [**Data**](#data)
+	- [**Module Outline**](#module-outline)
+	- [**Funding**](#funding)
+	- [**License for Data**](#license-for-data)
 
 ## **Overview**
 The module prioritizes practical, data-centric techniques, ensuring researchers can immediately apply their acquired data science and AI/ML knowledge to real-world problems. We aim to train the participants with the competencies and skills needed to make biomedical data FAIR (Findability, Accessibility, Interoperability, and Reusability) and AI/ML-ready. The module also utilizes a blend of engaging instructional videos, interactive demonstrations, hands-on exercises to facilitate self-directed learning and knowledge retention. 
@@ -41,6 +44,8 @@ Learn core concepts, diverse applications, introductory algorithms, ethical cons
 
 - Lecture
   - Introduction to AI/ML
+  - AI/ML Basic Concepts
+  - AI/ML Applications
 - Tutorial
   - Introduction to NumPy
   - Introduction to Pandas
