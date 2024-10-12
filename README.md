@@ -58,7 +58,7 @@ Learn core concepts, diverse applications, introductory algorithms, ethical cons
 Learn FAIR principles for responsible data management, evaluate data quality and AI/ML readiness, and understand fairness, transparency, and accountability in AI/ML development and deployment.
 
 - Lecture
-  - Data Science Life Cycles
+  - Data Science Life Cycle
   - FAIR Data Principles
   - FAIR Metrics
   - Data Readiness for AI/ML Checklist
