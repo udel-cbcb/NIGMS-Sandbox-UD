@@ -1,5 +1,6 @@
 {
   "cSpell.words": [
+    "arange",
     "Daltons",
     "dropna",
     "dtype",
@@ -13,6 +14,11 @@
     "isin",
     "isna",
     "Kemal",
+    "linalg",
+    "ndarray",
+    "openpyxl",
+    "protonation",
+    "randn"
     "ndarray",
     "numpy",
     "openpyxl",
