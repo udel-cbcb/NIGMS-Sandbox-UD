@@ -3,15 +3,18 @@
 
 ## **Contents**
 
-- [**Overview**](#overview)
-- [**Background**](#background)
-- [**Before Starting**](#before-starting)
-- [**Getting Started**](#getting-started)
-- [**Software Requirements**](#software-requirements)
-- [**Architecture Design**](#architecture-design)
-- [**Data**](#data)
-- [**Funding**](#funding)
-- [**License for Data**](#license-for-data)
+- [Practical Data-Centric AI/ML for Biomedical Researchers](#practical-data-centric-aiml-for-biomedical-researchers)
+	- [**Contents**](#contents)
+	- [**Overview**](#overview)
+	- [**Background**](#background)
+	- [**Before Starting**](#before-starting)
+	- [**Getting Started**](#getting-started)
+	- [**Software Requirements**](#software-requirements)
+	- [**Architecture Design**](#architecture-design)
+	- [**Data**](#data)
+	- [**Module Outline**](#module-outline)
+	- [**Funding**](#funding)
+	- [**License for Data**](#license-for-data)
 
 ## **Overview**
 The module prioritizes practical, data-centric techniques, ensuring researchers can immediately apply their acquired data science and AI/ML knowledge to real-world problems. We aim to train the participants with the competencies and skills needed to make biomedical data FAIR (Findability, Accessibility, Interoperability, and Reusability) and AI/ML-ready. The module also utilizes a blend of engaging instructional videos, interactive demonstrations, hands-on exercises to facilitate self-directed learning and knowledge retention. 
@@ -41,23 +44,26 @@ Learn core concepts, diverse applications, introductory algorithms, ethical cons
 
 - Lecture
   - Introduction to AI/ML
-- Live Demo
+  - AI/ML Basic Concepts
+  - AI/ML Applications
+- Tutorial
   - Introduction to NumPy
   - Introduction to Pandas
 - Exercise
   - NumPy Exercise
   - Pandas Exercise
 
-**Submodule 2 - FAIR Data Principles, Data-Centric AI/ML, and Responsible AI/ML**
+**Submodule 2 - Data Science Life Cycles, FAIR, Data-Centric AI/ML, and Responsible AI/ML**
 
 Learn FAIR principles for responsible data management, evaluate data quality and AI/ML readiness, and understand fairness, transparency, and accountability in AI/ML development and deployment.
 
 - Lecture
+  - Data Science Life Cycle
   - FAIR Data Principles
+  - FAIR Metrics
   - Data Readiness for AI/ML Checklist
   - Data-Centric AI/ML
   - Responsible AI/ML
-- Live Demo
 - Exercise
 
 **Submodule 3 - Data Preparation**
@@ -67,7 +73,7 @@ Learn practical data cleaning techniques, as well as feature engineering, featur
 - Lecture
   - Data Collection and Data Preparation
   - Feature Engineering, Scaling and Selection
-- Live Demo
+- Tutorial
 	- Data Cleaning
 	  - Basic Data Clearning
 	  - Marking and Removal of Missing Data
@@ -97,7 +103,7 @@ Explore different AI/ML model types, and model evaluation techniques, delve into
 - Lecture
   - AI/ML Models and Model Evaluation
   - Model Tuning, Interpretation and Deployment
-- Live Demo
+- Tutorial
 	- Model Building and Evaluation
 	- Model Tuning, Interpretation, Deployment
 - Exercise
@@ -110,7 +116,7 @@ Show different types of AI/ML algorithms and their suitability for biomedical da
 - Lecture
   - AI/ML Applications in Biomedicine
   - Introduction to Deep Learning
-- Live Demo
+- Tutorial
 	- Pfam protein sequence classification using Tensorflow and Keras
 - Exercise
 	- Protein 3D structure prediction using AlphaFold2
