@@ -169,7 +169,10 @@ cython_debug/
 /Dockerfile
 /justfile
 
-# Files created by notebooks
-/Submodule1/Exercises/*.csv
-/Submodule1/Live_Demos/foo.*
+# VS Code settings
 .vscode/
+
+# Files created by notebooks
+/Submodule_1/Exercises/*.csv
+/Submodule_1/Tutorials/foo.*
+/Submodule_3/Tutorials/*.csv
