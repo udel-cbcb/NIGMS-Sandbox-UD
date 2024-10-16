@@ -59,8 +59,7 @@ Learn FAIR principles for responsible data management, evaluate data quality and
 
 - Lecture
   - Data Science Life Cycle
-  - FAIR Data Principles
-  - FAIR Metrics
+  - FAIR Data Principles and FAIRness Evaluation Metrics
   - Data Readiness for AI/ML Checklist
   - Data-Centric AI/ML
   - Responsible AI/ML
