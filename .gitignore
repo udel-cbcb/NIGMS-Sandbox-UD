@@ -176,3 +176,4 @@ cython_debug/
 /Submodule_1/Exercises/*.csv
 /Submodule_1/Tutorials/foo.*
 /Submodule_3/Tutorials/*.csv
+/Submodule_3/Tutorials/*.names
