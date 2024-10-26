@@ -53,9 +53,9 @@ Learn core concepts, diverse applications, introductory algorithms, ethical cons
   - NumPy Exercise
   - Pandas Exercise
 
-**Submodule 2 - Data Science Life Cycle, FAIR Data Principles, Data-Centric AI/ML, and Responsible AI/ML**
+**Submodule 2 - Data Science Life Cycle and FAIR Data Principles, Data-Centric AI/ML, and Responsible AI/ML**
 
-Learn Data Science life cycle, FAIR principles for responsible data management, systematically engineering the data used to build an AI/ML system, and understand fairness, transparency, and accountability in AI/ML development and deployment.
+Learn Data Science life cycle and FAIR principles for responsible data management. systematically engineering the data used to build an AI/ML system, and understand fairness, transparency, and accountability in AI/ML development and deployment.
 
 - Lecture
   - Data Science Life Cycle
