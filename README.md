@@ -62,7 +62,6 @@ Learn Data Science life cycle and FAIR principles for responsible data managemen
   - FAIR Data Principles and FAIRness Metrics
   - Data-Centric AI/ML
   - Responsible AI/ML
-- Exercise
 
 **Submodule 3 - Data Preparation**
 
