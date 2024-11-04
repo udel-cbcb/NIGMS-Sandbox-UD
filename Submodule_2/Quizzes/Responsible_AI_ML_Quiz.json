@@ -1,0 +1,288 @@
+[
+    {
+        "question": "What are facets of Responsible AI/ML?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Privacy and Security",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Fairness",
+                "correct": true,
+                "feedback": "Correcct."
+            },
+            {
+                "answer": "Explainability",
+                "correct": true,
+                "feedback": "Correcct."
+            },
+            {
+                "answer": "Discrimination",
+                "correct": false,
+                "feedback": "Incorrecct."
+            }
+        ]
+    },
+    {
+        "question": "What kind of bias it is if a dataset of customer reviews for a restaurant might be biased towards positive reviews if the dataset is skewed towards positive feedback from satisfied customers, leading to inaccurate predictions for new reviews?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Reporting Bias",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Historical Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Automation Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Selection Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            }
+        ]
+    },
+    {
+        "question": "What kind of bias it is if historical housing data that reflects discriminatory lending practices from the past may perpetuate these biases when used to make predictions about modern-day housing prices?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Historical Bias",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Reporting Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Participation Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Sampling Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            }
+        ]
+    },
+    {
+        "question": "What kind of bias it is if a pilot might rely too heavily on autopilot and fail to notice a critical warning, leading to a dangerous situation?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Automation Bias",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Reporting Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Participation Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Selection Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            }
+        ]
+    },
+    {
+        "question": "What kind of bias it is if a dataset of primarily young, healthy patients might not accurately predict health outcomes for older or less healthy populations?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Selection Bias",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Reporting Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Participation Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Automation Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            }
+        ]
+    },
+    {
+        "question": "What kind of bias it is if a survey about online shopping habits might be biased if only people with access to the internet and a willingness to participate in surveys respond?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Participation Bias",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Reporting Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Sampling Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Automation Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            }
+        ]
+    },
+    {
+        "question": "What kind of bias it is if instead of randomly targeting consumers, the surveyor chose the first 200 consumers that responded to an email, who might have been more enthusiastic about the product than average purchasers?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Sampling Bias",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Reporting Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Selection Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Automation Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            }
+        ]
+    },
+    {
+        "question": "What kind of bias it is if a facial recognition model trained primarily on images of white individuals might be less accurate at recognizing faces of people of color?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "In-group Bias",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Implict Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Confirmation Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Automation Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            }
+        ]
+    },
+    {
+        "question": "What kind of bias it is if a gesture recognition model is trained to interpret a head shake as a 'no' gesture, but this might be inaccurate in certain cultural contexts where a head shake has a different meaning?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Implicit Bias",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Reporting Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Confirmation Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Sampling Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            }
+        ]
+    },
+    {
+        "question": "What kind of bias it is if an ML practitioner's personal negative experience with a toy poodle influenced their selection of features for a dog aggression model, leading to potential bias in the model's predictions?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Confirmation Bias",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Reporting Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Out-group Homogeneity Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Sampling Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            }
+        ]
+    },
+    {
+        "question": "What kind of bias it is if an ML practitioner repeatedly retrained the model until it confirmed their preconceived notion that toy poodles are aggressive, despite the initial model's findings?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Experimenter's Bias",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Reporting Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Implicit Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Sampling Bias",
+                "correct": false,
+                "feedback": "Incorrecct."
+            }
+        ]
+    }
+]

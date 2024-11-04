@@ -1,0 +1,262 @@
+[
+    {
+        "question": "What are the key features of Model-Centric AI/ML?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Model Architecture",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Hyperparameter Tunning",
+                "correct": true,
+                "feedback": "Correcct."
+            },
+            {
+                "answer": "Model Selection",
+                "correct": true,
+                "feedback": "Correcct."
+            },
+            {
+                "answer": "Data Augmentation",
+                "correct": false,
+                "feedback": "Incorrecct."
+            }
+        ]
+    },
+    {
+        "question": "What are the benefits of Model-Centric AI/ML?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Improved accuracy and generalization",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Faster development and deployment",
+                "correct": true,
+                "feedback": "Correcct."
+            },
+            {
+                "answer": "Enhanced interpretability",
+                "correct": true,
+                "feedback": "Correcct."
+            },
+            {
+                "answer": "Reduced Reliance on Complex Models",
+                "correct": false,
+                "feedback": "Incorrecct."
+            }
+        ]
+    },
+    {
+        "question": "What are the key features of Data-Centric AI/ML?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Data Quality",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Data Diversity",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Data Cleaning and Preprocessing",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Model Training",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "What are the benefits of Data-Centric AI/ML?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Improved Model Performance",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Faster Development Time",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Enhanced Explainability",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Accelerated Innovation",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "What are the approaches we can take to systematic improve the data fit?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Augmentation",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Identifying and Addressing Bias",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Data Cleaning and Preparation",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Data Documentation",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "What are the approaches we can take to systematic improve the data consistency?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Automated Tools",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Inter-annotator Reliability",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Data Provenance",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Human in the Loop",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "How do we improve the model and data through iteration?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Error Analysis",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Continous Learning",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Monitoring and Feedback",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Standardized Guidelines",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "What does the human-centered data work focus on?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Data as a Human Endeavor",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Addressing Bias and Fairness",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Ethical Consideration",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Iterative Refinement",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "What are the key aspects of the principle of AI as a sociotechnical system?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Human-Centered Desgin",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Ethical Consideration",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "User Experince",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Contextual Understanding",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "What are the Data-Centric AI/ML approaches?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Data Labeling",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Data Annotation",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Data Augmentation",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Model Evaluation",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    }
+]
