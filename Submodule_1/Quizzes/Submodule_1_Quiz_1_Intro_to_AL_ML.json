@@ -1,0 +1,195 @@
+[
+    {
+        "question": "What are the characteristics of Machine Learning algorithms?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Performing some task",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Gain experience over time",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Improve their performance",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "Which of the following measurements are of the Numerical continous data type?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Blood sugar level",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Number of patients admitted with a given disease",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Number of proteins with all alpha helix secondary structure",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Severity of a disease (mild, moderate, severe)",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "Which of the following measurements are of the Categorical ordinal data type?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Blood sugar level",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Number of patients admitted with a given disease",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Confidence score scale of 1-5 (lower to highest confidence)",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Severity of a disease (mild, moderate, severe)",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "Which of the following measurements are of the Numerical discrete data type?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Blood sugar level",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Number of patients admitted with a given disease",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Confidence score scale of 1-5 (lower to highest confidence)",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Number of proteins with all alpha helix secondary structure",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "Which of the following measurements are of the Categorical nominal data type?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Protein secondary structure (alpha, beta, coil)",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Number of patients admitted with a given disease",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Confidence score scale of 1-5 (lower to highest confidence)",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Number of proteins with all alpha helix secondary structure",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "Which one of the following is not a part of AI discipline?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Neuroscience",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Mathematics",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Data Science",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Computer Science",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    },
+    {
+        "question": "Which one of the following is not supervised learning?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Linear regression",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Decision Tree",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Support Vector Machine",
+                "correct": false,
+                "feedback": "Incorrect."
+            },
+            {
+                "answer": "Principal Component Analysis",
+                "correct": true,
+                "feedback": "Correct."
+            }
+        ]
+    },
+    {
+        "question": "<h5>True or False?</h5>One of the difference between supervised and unsupervised learning is that the supervised learning uses labeled data",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "True",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "False",
+                "correct": false,
+                "feedback": "Incorrect."
+            }
+        ]
+    }
+]
