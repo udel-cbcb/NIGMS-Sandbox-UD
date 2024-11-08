@@ -1,0 +1,80 @@
+[
+    {
+        "question": "What are the unique characteristics of Deep Learning?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Based on distributed representational learning.",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Perform better with more data over time.",
+                "correct": true,
+                "feedback": "Correcct."
+            },
+            {
+                "answer": "More complex and high-level features and concepts are derived from simpler, low-level features.",
+                "correct": true,
+                "feedback": "Correcct."
+            },
+            {
+                "answer": "Hierarchical layered representation of concepts",
+                "correct": true,
+                "feedback": "Correcct."
+            }
+        ]
+    },
+    {
+        "question": "Which are widely used hyperparameters in Deeep Learning?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Numer of hidden layers and units",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Dropout rate",
+                "correct": true,
+                "feedback": "Correcct."
+            },
+            {
+                "answer": "Number of epochs",
+                "correct": true,
+                "feedback": "Correcct."
+            },
+            {
+                "answer": "Learning rate",
+                "correct": true,
+                "feedback": "Correcct."
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not a Deep Learning model?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "Random Forest",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Transformer",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Convolutional Neural Network",
+                "correct": false,
+                "feedback": "Incorrecct."
+            },
+            {
+                "answer": "Recurrent Neural Network",
+                "correct": false,
+                "feedback": "Incorrecct."
+            }
+        ]
+    }
+]
