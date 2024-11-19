@@ -23,7 +23,34 @@ The module prioritizes practical, data-centric techniques, ensuring researchers 
 The landscape of biomedical research is experiencing a fundamental shift, transitioning from hypothesis-driven approaches to data-driven discoveries fueled by the large and complex datasets generated through high-throughput technologies. Effectively analyzing and extracting meaningful insights from these datasets requires researchers to be proficient in advanced computational methods such as Artificial Intelligence (AI) and Machine Learning (ML). Furthermore, cloud computing offers flexible, cost-effective, and powerful solutions for data storage, analysis, and collaboration without the infrastructure burden of individual institutions. However, unlocking the full potential of cloud-based AI/ML in biomedical research hinges on equipping researchers with the necessary skills and knowledge. Recognizing this gap, the National Institute of General Medical Sciences (NIGMS) launched the NIGMS Sandbox initiative, aiming to create a repository of cloud-based learning modules for diverse biomedical data science topics. This module, "Practical Data-Centric AI/ML for Biomedical Researchers" aligns perfectly with the NIGMS’s vision to expand the skilled workforce capable of harnessing the power of cloud computing and AI/ML. The module tackles the crucial challenge of upskilling biomedical researchers by equipping researchers with these skills to foster innovation, accelerate scientific discovery. By leveraging the NIGMS Sandbox and cloud platform, the module ensures broad accessibility. This democratizes access to cutting-edge knowledge, empowering researchers regardless of their institutional resources and fostering a more inclusive research landscape. 
 
 ## **Before Starting**
+1. Create an AWS Account:
 
+* If you don't already have one, sign up for an AWS account.
+* You may need to provide credit card information, but you can often start with a free tier that offers a certain amount of free usage.
+
+2. Launch a SageMaker Notebook Instance:
+
+* Log into the AWS Management Console.
+* Search for "SageMaker" and open the SageMaker service.
+* Click on "Notebook Instances" and then "Create Notebook Instance".
+* Instance Name: Give your instance a descriptive name.
+* Instance Type: Choose a suitable instance type based on your computational needs. For basic data exploration and model training, a general-purpose instance like ml.t2.medium is sufficient.
+* Notebook Instance Platform: Select the latest version of Jupyter Notebook.
+* Storage: Configure the storage volume size for your instance.
+* Network and Security: Set up appropriate network access and security groups to protect your instance.
+* Additional Configurations: Review and adjust other settings as needed, such as IAM roles and kernel configurations.
+* Click "Create Notebook Instance".
+
+3. Access Your Notebook Instance:
+
+* Once the instance is created, you can access it through the SageMaker console or directly via a web browser.
+* You'll be provided with a URL to access the Jupyter Notebook interface.
+
+4. Set Up Your Environment:
+
+* Install Required Libraries: Use the !pip install command to install necessary libraries like TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, etc.
+* Import Libraries: Import the required libraries into your Python scripts or notebooks.
+* Connect to Data Sources: Configure your instance to access data from various sources like S3 buckets, databases, or public datasets.
 
 ## **Getting Started**
 
