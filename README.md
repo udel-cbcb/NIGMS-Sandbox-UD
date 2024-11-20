@@ -53,10 +53,31 @@ The landscape of biomedical research is experiencing a fundamental shift, transi
 * Connect to Data Sources: Configure your instance to access data from various sources like S3 buckets, databases, or public datasets.
 
 ## **Getting Started**
+1. Open a Terminal in Your SageMaker Notebook Instance, navigate to the Terminal tab in your SageMaker notebook instance.
 
+2. Clone the Repository using the git clone command to clone our GitHub repository: 
+
+```
+git clone https://github.com/udel-cbcb/NIGMS-Sandbox-UD.git
+```
+
+3. Run the notebooks
+
+We have five notebooks, each for a submodule.  From the Notebook Interface:
+* Open the desired notebook file (e.g. submodule_1.ipynb) from the Jupyter Notebook interface.
+* Run the cells sequentially or selectively using the "Run" button or keyboard shortcut (usually Shift+Enter).
+
+4. Notebook layout
+
+Each notebook starts with some video lectures about the topics and quizzess to evaluate your understanding. Each notebooks also have some tutorials to help learn how to implement the concepts and methods introduced in the lectures in Python code. We also provide Exercises (Solutions) for you to practice and check your own work.
 
 ## **Software Requirements**
 
+These notebooks were designed to be used on AWS cloud computing platforms, with the aim of requiring nothing but the files within this GitHub repository.
+
+Therefore, software requirements should only require creation of SageMaker Notebook Instance and the downloading of this github's files to that machine.
+
+For more information on creating a virtual machine and downloading our GitHub repo to that machine, we have a before starting and getting started section below. Currently this section only includes information on how to do this using SageMaker on AWS Cloud Platform.
 
 ## **Architecture Design**
 
