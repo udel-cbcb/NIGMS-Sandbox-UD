@@ -169,8 +169,11 @@ cython_debug/
 /Dockerfile
 /justfile
 
+# JetBrains settings
+/.idea
+
 # VS Code settings
-.vscode/
+/.vscode
 
 # Files created by notebooks
 /Submodule_1/Exercises/*.csv
