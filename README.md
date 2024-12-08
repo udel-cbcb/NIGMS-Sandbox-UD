@@ -86,11 +86,12 @@ For more information on creating a virtual machine and downloading our GitHub re
 
 | File Name | Summary | Details |
 |---|---|---|
-|[messy_data.csv](./Data/messy_data.csv)|The breast cancer dataset classifies breast cancer patient as either a recurrence or no recurrence of cancer. This dateset is modified from Breast Cancer Dataset so that various data cleaning techniques may be demonstrated. |[Breast Cancer Dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/breast-cancer.names)|
+|[messy_data.csv](./Data/messy_data.csv)|The breast cancer dataset classifies breast cancer patient as either a recurrence or no recurrence of cancer. 'messy_data.csv' is modified from Breast Cancer Dataset so that various data cleaning techniques may be demonstrated. |[Breast Cancer Dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/breast-cancer.names)|
 |[pima-indians-diabetes.csv](./Data/pima-indians-diabetes.csv)|The dataset classifies patient as either an onset of diabetes within five years or not.|[Pima Indians Diabetes Dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.names)|
 |[horse-colic.csv](./Data/horse-colic.csv)|The horse colic dataset describes medical characteristics of horses with colic and whether they lived or died.|[Horse Colic Dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/horse-colic.names)|
 |[sonar.csv](./Data/sonar.csv)|The sonar dataset is a standard machine learning dataset for binary classification. The data set contains bouncing sonar signals off a metal cylinder or rocks obtained from a variety of different aspect angles.|[Sonar Dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/sonar.names)|
-
+|[messy_wine_data.csv](./Data/messy_wine_data.csv)|The wine dataset is the results of a chemical analysis of wines grown in the same region in Italy by three different cultivators. 'messy_wine_data.csv' is a modified from 'Wine recognition dataset' by introducing some missing values.|[UCI Wine Dataset](https://www.kaggle.com/datasets/aarontanjaya/uci-wine-dataset)|
+|[ecoli.csv](./Data/ecoli.csv)|Ecoli dataset is for predicting Protein Localization Sites in Ecoli.|[Ecoli Dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/ecoli.names)|
 ## **Module Outline**
 **Submodule 1 - Introduction**
 
