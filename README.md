@@ -92,6 +92,7 @@ For more information on creating a virtual machine and downloading our GitHub re
 |[sonar.csv](./Data/sonar.csv)|The sonar dataset is a standard machine learning dataset for binary classification. The data set contains bouncing sonar signals off a metal cylinder or rocks obtained from a variety of different aspect angles.|[Sonar Dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/sonar.names)|
 |[messy_wine_data.csv](./Data/messy_wine_data.csv)|The wine dataset is the results of a chemical analysis of wines grown in the same region in Italy by three different cultivators. 'messy_wine_data.csv' is a modified from 'Wine recognition dataset' by introducing some missing values.|[UCI Wine Dataset](https://www.kaggle.com/datasets/aarontanjaya/uci-wine-dataset)|
 |[ecoli.csv](./Data/ecoli.csv)|Ecoli dataset is for predicting Protein Localization Sites in Ecoli.|[Ecoli Dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/ecoli.names)|
+|[tox21.csv]("../../Data/tox21.csv)|The “Toxicology in the 21st Century” (Tox21) initiative created a public database measuring toxicity of compounds, which has been used in the 2014 Tox21 Data Challenge. This dataset contains qualitative toxicity measurements for 8k compounds on 12 different targets, including nuclear receptors and stress response pathways.|[Toxicology Dataset](https://tripod.nih.gov/tox21/challenge/data.jsp)|
 ## **Module Outline**
 **Submodule 1 - Introduction**
 
