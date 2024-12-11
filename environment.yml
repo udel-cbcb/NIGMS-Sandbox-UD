@@ -1,4 +1,7 @@
 name: nigms_sandbox_ud
+channels:
+  - conda-forge
+  - defaults
 dependencies:
   - deepchem
   - ipykernel
@@ -11,9 +14,9 @@ dependencies:
   - openpyxl
   - pandas
   - py3dmol
+  - pytables
   - rdkit
   - scikit-learn
   - seaborn
   - skater
-  - tables
   - tensorflow
