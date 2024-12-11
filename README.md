@@ -93,6 +93,7 @@ For more information on creating a virtual machine and downloading our GitHub re
 |[messy_wine_data.csv](./Data/messy_wine_data.csv)|The wine dataset is the results of a chemical analysis of wines grown in the same region in Italy by three different cultivators. 'messy_wine_data.csv' is a modified from 'Wine recognition dataset' by introducing some missing values.|[UCI Wine Dataset](https://www.kaggle.com/datasets/aarontanjaya/uci-wine-dataset)|
 |[ecoli.csv](./Data/ecoli.csv)|Ecoli dataset is for predicting Protein Localization Sites in Ecoli.|[Ecoli Dataset](https://raw.githubusercontent.com/jbrownlee/Datasets/master/ecoli.names)|
 |[tox21.csv]("../../Data/tox21.csv)|The “Toxicology in the 21st Century” (Tox21) initiative created a public database measuring toxicity of compounds, which has been used in the 2014 Tox21 Data Challenge. This dataset contains qualitative toxicity measurements for 8k compounds on 12 different targets, including nuclear receptors and stress response pathways.|[Toxicology Dataset](https://tripod.nih.gov/tox21/challenge/data.jsp)|
+|[winequality-white.csv]("../../Data/winequality-white.csv"), [winequality-red.csv]("../../Data/winequality-red.csv") |The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine.|[Wine Quality Dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)|
 ## **Module Outline**
 **Submodule 1 - Introduction**
 
