@@ -1,0 +1,19 @@
+name: nigms_sandbox_ud__submodule_4
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - graphviz
+  - ipykernel
+  - joblib
+  - jupyter
+  - matplotlib=3.3.4
+  - mordredcommunity
+  - numpy=1.19.5
+  - pandas=1.2.4
+  - rdkit
+  - scikit-learn
+  - scipy=1.7.3
+  - seaborn
+  - skater
+  - xgboost
