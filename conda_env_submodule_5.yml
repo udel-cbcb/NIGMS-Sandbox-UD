@@ -1,0 +1,12 @@
+name: nigms_sandbox_ud__submodule_5
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - deepchem
+  - keras=2.15.0
+  - ipykernel
+  - jupyter
+  - rdkit
+  - seaborn
+  - tensorflow
