@@ -181,3 +181,5 @@ cython_debug/
 /Submodule_3/Tutorials/*.csv
 /Submodule_3/Tutorials/*.names
 /Submodule_4/Tutorials/*.pkl
+
+/.virtual_documents
