@@ -4,9 +4,11 @@ channels:
   - defaults
 dependencies:
   - deepchem
-  - keras=2.15.0
   - ipykernel
   - jupyter
+  - keras=2.15.0
+  - python=3.9
   - rdkit
+  - scipy=1.7.3
   - seaborn
   - tensorflow
