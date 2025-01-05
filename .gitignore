@@ -183,3 +183,5 @@ cython_debug/
 /Submodule_4/Tutorials/*.pkl
 
 /.virtual_documents
+
+/*/*/*.png
