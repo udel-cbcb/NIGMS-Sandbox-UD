@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - graphviz
   - ipykernel
   - joblib
   - jupyter
@@ -11,6 +10,7 @@ dependencies:
   - mordredcommunity
   - numpy=1.19.5
   - pandas=1.2.4
+  - python-graphviz
   - python=3.9
   - rdkit
   - scikit-learn
