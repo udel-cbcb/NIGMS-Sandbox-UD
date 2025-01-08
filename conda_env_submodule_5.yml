@@ -8,9 +8,12 @@ dependencies:
   - jupyter
   - keras=2.15.0
   - numpy
+  - pip
   - python=3.9
   - rdkit
   - scikit-learn=1.6
   - scipy=1.9
   - seaborn
   - tensorflow
+  - pip:
+      - jupyterquiz

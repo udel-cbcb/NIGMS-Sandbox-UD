@@ -10,6 +10,7 @@ dependencies:
   - mordredcommunity
   - numpy=1.19.5
   - pandas=1.2.4
+  - pip
   - python-graphviz
   - python=3.9
   - rdkit
@@ -18,3 +19,5 @@ dependencies:
   - seaborn
   - skater
   - xgboost
+  - pip:
+      - jupyterquiz
