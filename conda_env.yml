@@ -8,8 +8,11 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
+  - pip
   - python=3.9
-  - requests # this will need to be removed
+  - requests # Will be removed
   - scikit-learn
   - scipy
   - seaborn
+  - pip:
+      - jupyterquiz
