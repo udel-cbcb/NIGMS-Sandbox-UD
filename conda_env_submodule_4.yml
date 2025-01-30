@@ -13,8 +13,8 @@ dependencies:
   - python-graphviz
   - python=3.9
   - rdkit
-  - scikit-learn
+  - scikit-learn=1.5.2
   - scipy=1.7.3
   - seaborn
   - skater
-  - xgboost
+  - xgboost=2.1.3
