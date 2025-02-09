@@ -172,8 +172,9 @@ Show different types of AI/ML algorithms and their suitability for biomedical da
   - Introduction to Deep Learning
 - Tutorial
 	- Pfam protein sequence classification using Tensorflow and Keras
+    - Predicting the Solubility of Small Molecules
 - Exercise
-	- Protein 3D structure prediction using AlphaFold2
+	- Predicting Wine Types using Deep Learning
 
 ## **Funding**
 The creation of this training module was supported by the National Institute Of General Medical Sciences of the National Institutes of Health under Award Number 3T32GM142603-03S1. Any opinions, findings, and conclusions, or recommendations expressed in this material are those of the authors and do not necessarily reflect the views 
