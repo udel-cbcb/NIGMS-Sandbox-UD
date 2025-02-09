@@ -158,10 +158,13 @@ Explore different AI/ML model types, and model evaluation techniques, delve into
   - AI/ML Models and Model Evaluation
   - Model Tuning, Interpretation and Deployment
 - Tutorial
-	- Model Building and Evaluation
-	- Model Tuning, Interpretation, Deployment
+  - Model Building and Evaluation
+  - Model Tunning, Model Interpretation, Model Deployment
+  - Predict Drug Activity for Androgen Receptor
 - Exercise
-	- Exploratory Analysis and Model Prediction with Biomedical Data
+  - Exploratory Analysis of Wine Types and Quality Data
+  - Predicting Wine Types
+  - Predicting Wine Qualities
 
 **Submodule 5 - AI/ML for Biomedical Applications**
 
