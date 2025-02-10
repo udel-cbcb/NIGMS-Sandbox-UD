@@ -164,7 +164,7 @@ Explore different AI/ML model types, and model evaluation techniques, delve into
 - Exercise
   - Exploratory Analysis of Wine Types and Quality Data
   - Predicting Wine Types
-  - Predicting Wine Qualities
+  Predicting Wine Qualities (Solution)
 
 **Submodule 5 - AI/ML for Biomedical Applications**
 
@@ -178,6 +178,7 @@ Show different types of AI/ML algorithms and their suitability for biomedical da
     - Predicting the Solubility of Small Molecules
 - Exercise
 	- Predicting Wine Types using Deep Learning
+    - Protein 3D Structure Prediction using LocalColabFold
 
 ## **Funding**
 The creation of this training module was supported by the National Institute Of General Medical Sciences of the National Institutes of Health under Award Number 3T32GM142603-03S1. Any opinions, findings, and conclusions, or recommendations expressed in this material are those of the authors and do not necessarily reflect the views 
