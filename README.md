@@ -162,9 +162,8 @@ Explore different AI/ML model types, and model evaluation techniques, delve into
   - Model Tunning, Model Interpretation, Model Deployment
   - Predict Drug Activity for Androgen Receptor
 - Exercise
-  - Exploratory Analysis of Wine Types and Quality Data
-  - Predicting Wine Types
-  Predicting Wine Qualities (Solution)
+  - Exploratory Analysis of Diabetes Risk Factors
+  - Predicting Diabetes Risk
 
 **Submodule 5 - AI/ML for Biomedical Applications**
 
