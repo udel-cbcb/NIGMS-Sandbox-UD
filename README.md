@@ -176,7 +176,7 @@ Show different types of AI/ML algorithms and their suitability for biomedical da
 	- Pfam protein sequence classification using Tensorflow and Keras
     - Predicting the Solubility of Small Molecules
 - Exercise
-	- Predicting Wine Types using Deep Learning
+	- Predicting Predicting Diabetes Risk Deep Neural Network 
     - Protein 3D Structure Prediction using LocalColabFold
 
 ## **Funding**
