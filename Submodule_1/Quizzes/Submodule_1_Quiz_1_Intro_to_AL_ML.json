@@ -177,7 +177,7 @@
         ]
     },
     {
-        "question": "<h5>True or False?</h5>One of the difference between supervised and unsupervised learning is that the supervised learning uses labeled data",
+        "question": "True or False? One of the difference between supervised and unsupervised learning is that the supervised learning uses labeled data",
         "type": "multiple_choice",
         "answers": [
             {
