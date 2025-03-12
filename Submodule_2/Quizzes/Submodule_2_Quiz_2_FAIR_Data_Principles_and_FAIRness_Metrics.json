@@ -4,7 +4,7 @@
         "type": "multiple_choice",
         "answers": [
             {
-                "answer": "Finable",
+                "answer": "Findable",
                 "correct": false,
                 "feedback": "Incorrect."
             },
@@ -56,7 +56,7 @@
         "type": "multiple_choice",
         "answers": [
             {
-                "answer": "Finable",
+                "answer": "Findable",
                 "correct": true,
                 "feedback": "Correct."
             },
