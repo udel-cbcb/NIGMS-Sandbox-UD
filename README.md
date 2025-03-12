@@ -15,6 +15,8 @@
 	- [**Module Outline**](#module-outline)
 	- [**Funding**](#funding)
 	- [**License for Data**](#license-for-data)
+    - [**Contributors**](#contributors)
+    - [**Acknowledgement**](#acknowledgement)
 
 ## **Overview**
 The module prioritizes practical, data-centric techniques, ensuring researchers can immediately apply their acquired data science and AI/ML knowledge to real-world problems. We aim to train the participants with the competencies and skills needed to make biomedical data FAIR (Findability, Accessibility, Interoperability, and Reusability) and AI/ML-ready. The module also utilizes a blend of engaging instructional videos, interactive demonstrations, hands-on exercises to facilitate self-directed learning and knowledge retention. 
@@ -198,3 +200,10 @@ Text and materials are licensed under a Creative Commons CC-BY-NC-SA license. Th
 ![Creative commons license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## **Contributors** 
+The content of this training module was contributed by [Cecilia Arighi](mailto:arighi@udel.edu), [Chuming Chen](mailto:chenc@udel.edu), [Amelia Harrison](mailto:aoh@udel.edu), [Ryan Moore](mailto:moorer@udel.edu), [Shawn Polson](mailto:polson@udel.edu).
+
+## **Acknowledgement**
+We would like to thank [Sylvia Kinya](mailto:kinyasly@udel.edu), [Aaron Onserio](mailto:onserioa@udel.edu) and Deloitte team for reviewing and testing our module.
+
