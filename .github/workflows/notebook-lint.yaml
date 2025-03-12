@@ -1,6 +1,6 @@
 name: 'Lint Notebook'
-#on:
-#  push:
+on:
+  push:
 permissions:
   contents: write
   id-token: write
