@@ -52,7 +52,7 @@
         ]
     },
     {
-        "question": "What prediction task can’t we use Graph Convolutional Network for?",
+        "question": "What prediction task can’t we use Convolutional Network for?",
         "type": "multiple_choice",
         "answers": [
             {

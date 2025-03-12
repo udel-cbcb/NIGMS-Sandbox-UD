@@ -16,7 +16,7 @@
         ]
     },
     {
-        "question": "Let's say we have a dataset of patients with a certain disease, and we want to build a model that can predict how effective a particular treatment will be for a new patient with similar characteristics.<br/><br/>If we train a model with too much emphasis on the training data, it may learn to predict the outcomes of the training patients with very high accuracy, but may fail to generalize well to new, unseen patients.",
+        "question": "Let's say we have a dataset of patients with a certain disease, and we want to build a model that can predict how effective a particular treatment will be for a new patient with similar characteristics. If we train a model with too much emphasis on the training data, it may learn to predict the outcomes of the training patients with very high accuracy, but may fail to generalize well to new, unseen patients.",
         "type": "multiple_choice",
         "answers": [
             {
