@@ -205,5 +205,5 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 The content of this training module was contributed by [Cecilia Arighi](mailto:arighi@udel.edu), [Chuming Chen](mailto:chenc@udel.edu), [Amelia Harrison](mailto:aoh@udel.edu), [Ryan Moore](mailto:moorer@udel.edu), [Shawn Polson](mailto:polson@udel.edu).
 
 ## **Acknowledgement**
-We would like to thank [Sylvia Kinya](mailto:kinyasly@udel.edu), [Aaron Onserio](mailto:onserioa@udel.edu) and Deloitte team for reviewing and testing our module.
+We would like to thank Sylvia Kinya, Aaron Onserio and Deloitte team for reviewing and testing our module.
 
