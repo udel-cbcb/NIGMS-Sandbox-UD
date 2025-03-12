@@ -7,9 +7,9 @@
 	- [**Contents**](#contents)
 	- [**Overview**](#overview)
 	- [**Background**](#background)
+	- [**Software Requirements**](#software-requirements)
 	- [**Before Starting**](#before-starting)
 	- [**Getting Started**](#getting-started)
-	- [**Software Requirements**](#software-requirements)
 	- [**Architecture Design**](#architecture-design)
 	- [**Data**](#data)
 	- [**Module Outline**](#module-outline)
@@ -22,11 +22,17 @@ The module prioritizes practical, data-centric techniques, ensuring researchers 
 ## **Background**
 The landscape of biomedical research is experiencing a fundamental shift, transitioning from hypothesis-driven approaches to data-driven discoveries fueled by the large and complex datasets generated through high-throughput technologies. Effectively analyzing and extracting meaningful insights from these datasets requires researchers to be proficient in advanced computational methods such as Artificial Intelligence (AI) and Machine Learning (ML). Furthermore, cloud computing offers flexible, cost-effective, and powerful solutions for data storage, analysis, and collaboration without the infrastructure burden of individual institutions. However, unlocking the full potential of cloud-based AI/ML in biomedical research hinges on equipping researchers with the necessary skills and knowledge. Recognizing this gap, the National Institute of General Medical Sciences (NIGMS) launched the NIGMS Sandbox initiative, aiming to create a repository of cloud-based learning modules for diverse biomedical data science topics. This module, "Practical Data-Centric AI/ML for Biomedical Researchers" aligns perfectly with the NIGMS’s vision to expand the skilled workforce capable of harnessing the power of cloud computing and AI/ML. The module tackles the crucial challenge of upskilling biomedical researchers by equipping researchers with these skills to foster innovation, accelerate scientific discovery. By leveraging the NIGMS Sandbox and cloud platform, the module ensures broad accessibility. This democratizes access to cutting-edge knowledge, empowering researchers regardless of their institutional resources and fostering a more inclusive research landscape. 
 
+## **Software Requirements**
+
+These notebooks were designed to be used on AWS cloud computing platforms, with the aim of requiring nothing but the files within this GitHub repository. Therefore, software requirements should only require creation of SageMaker Notebook Instance and the downloading of this GitHub's files to that machine.
+
+For more information on creating a virtual machine and downloading our GitHub repo to that machine, we have a before starting and getting started section below. Currently this section only includes information on how to do this using SageMaker on AWS Cloud Platform.
+
 ## **Before Starting**
 1. Create an AWS Account:
 
-* If you don't already have one, sign up for an AWS account.
-* You may need to provide credit card information, but you can often start with a free tier that offers a certain amount of free usage.
+* If you have a NIH Cloud Lab account, you can use that account.
+* If you don't have NIH Cloud Labe account, you can sign up for a personel AWS account. You may need to provide credit card information, but you can often start with a free tier that offers a certain amount of free usage.
 
 2. Launch a SageMaker Notebook Instance:
 
@@ -41,10 +47,11 @@ The landscape of biomedical research is experiencing a fundamental shift, transi
 * Additional Configurations: Review and adjust other settings as needed, such as IAM roles and kernel configurations.
 * Click "Create Notebook Instance".
 
+You can also follow this documentation: [How to Create AWS SageMaker Notebooks](https://github.com/NIGMS/NIGMS-Sandbox/blob/main/docs/HowToCreateAWSSagemakerNotebooks.md).
+
 3. Access Your Notebook Instance:
 
-* Once the instance is created, you can access it through the SageMaker console or directly via a web browser.
-* You'll be provided with a URL to access the Jupyter Notebook interface.
+* Once the instance is created, you can access it through the SageMaker console or directly via a web browser using the provided URL.
 
 4. Set Up Your Environment:
 
@@ -71,18 +78,11 @@ We have five notebooks, each for a submodule.  From the Notebook Interface:
 
 4. Notebook layout
 
-Each notebook starts with some video lectures about the topics and quizzess to evaluate your understanding. Each notebooks also have some tutorials to help learn how to implement the concepts and methods introduced in the lectures in Python code. We also provide Exercises (Solutions) for you to practice and check your own work.
-
-## **Software Requirements**
-
-These notebooks were designed to be used on AWS cloud computing platforms, with the aim of requiring nothing but the files within this GitHub repository.
-
-Therefore, software requirements should only require creation of SageMaker Notebook Instance and the downloading of this github's files to that machine.
-
-For more information on creating a virtual machine and downloading our GitHub repo to that machine, we have a before starting and getting started section below. Currently this section only includes information on how to do this using SageMaker on AWS Cloud Platform.
+Each notebook starts with some video lectures about the topics and quizzess to evaluate your understanding. Each notebooks also have some tutorials to help you learn how to implement the concepts and methods introduced in the lectures in Python code. We also provide Exercises (Solutions) for you to practice and check your own work.
 
 ## **Architecture Design**
 
+![Architecture Diagram](./images/Practical_DataCentricAIML_UD_AWS.svg)
 
 ## **Data**
 
@@ -99,7 +99,7 @@ For more information on creating a virtual machine and downloading our GitHub re
 ## **Module Outline**
 **Submodule 1 - Introduction**
 
-Learn core concepts, diverse applications, introductory algorithms, ethical considerations, and data challenges.
+Learn AI/ML core concepts, diverse applications, introductory algorithms, ethical considerations, and data challenges.
 
 - Lecture
   - Introduction to AI/ML
@@ -112,9 +112,9 @@ Learn core concepts, diverse applications, introductory algorithms, ethical cons
   - NumPy Exercise
   - Pandas Exercise
 
-**Submodule 2 - Data Science Life Cycle and FAIR Data Principles, Data-Centric AI/ML, and Responsible AI/ML**
+**Submodule 2 - Data Science Life Cycle, FAIR Data Principles, Data-Centric AI/ML, and Responsible AI/ML**
 
-Learn Data Science life cycle and FAIR principles for responsible data management. systematically engineering the data used to build an AI/ML system, and understand fairness, transparency, and accountability in AI/ML development and deployment.
+Learn data science life cycle and FAIR principles for responsible data management. Systematically engineering the data used to build an AI/ML system, and understand fairness, transparency, and accountability in AI/ML development and deployment.
 
 - Lecture
   - Data Science Life Cycle
@@ -160,7 +160,7 @@ Learn practical data cleaning techniques, as well as feature engineering, featur
 
 **Submodule 4 - Model Building, Evaluation, Interpretation, and Deployment**	 
 
-Explore different AI/ML model types, and model evaluation techniques, delve into interpretability methods, and learn best practices for model deployment.
+Explore different AI/ML models and model evaluation techniques, delve into interpretability methods, and learn best practices for model deployment.
 
 - Lecture
   - AI/ML Models and Model Evaluation
