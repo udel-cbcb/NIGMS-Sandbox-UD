@@ -74,6 +74,7 @@ git clone https://github.com/udel-cbcb/NIGMS-Sandbox-UD.git
 
 We have five notebooks, each for a submodule.  From the Notebook Interface:
 * Open the desired notebook file (e.g. submodule_1.ipynb) from the Jupyter Notebook interface.
+* Select python3 kernel if not specified in the submodule notebook.
 * Run the cells sequentially or selectively using the "Run" button or keyboard shortcut (usually Shift+Enter).
 
 4. Notebook layout
