@@ -1,6 +1,6 @@
 [
     {
-        "question": "You want to perform a meta-analysis (observational study), thus you collect data related to lifestyle and obesity in a spreadsheet.  Because all data sources use the same terminology and are in the same format, you can easily integrate the datasets for your analysis.<br/><br/>Which FAIR principle is in play in this example?",
+        "question": "You want to perform a meta-analysis (observational study), thus you collect data related to lifestyle and obesity in a spreadsheet.  Because all data sources use the same terminology and are in the same format, you can easily integrate the datasets for your analysis. Which FAIR principle is in play in this example?",
         "type": "multiple_choice",
         "answers": [
             {
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "question": "You are a researcher reading a publication containing expression data for a tissue of interest. The publication mentions the expression data has been deposited in a data repository, but failed to provide an identifier.<br/><br/>Which FAIR principle has failed here?",
+        "question": "You are a researcher reading a publication containing expression data for a tissue of interest. The publication mentions the expression data has been deposited in a data repository, but failed to provide an identifier. Which FAIR principle has failed here?",
         "type": "multiple_choice",
         "answers": [
             {
