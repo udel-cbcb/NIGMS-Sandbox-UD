@@ -56,7 +56,7 @@
         "type": "multiple_choice",
         "answers": [
             {
-                "answer": "Filtere method",
+                "answer": "Filter method",
                 "correct": true,
                 "feedback": "Correct."
             },
