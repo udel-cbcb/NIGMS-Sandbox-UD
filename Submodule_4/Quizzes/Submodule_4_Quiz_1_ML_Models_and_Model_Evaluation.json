@@ -11,17 +11,17 @@
             {
                 "answer": "Works for both categorical and numerical data",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Results are interpretable",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Prone to overfitting",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             }
         ]
     },
@@ -37,12 +37,12 @@
             {
                 "answer": "F1-score",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Area under the ROC curve",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             }
         ]
     },
@@ -58,17 +58,17 @@
             {
                 "answer": "Homogeneity",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Completeness",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "V-measure",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     }

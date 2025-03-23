@@ -11,17 +11,17 @@
             {
                 "answer": "Machine Learning algorithms expect numbers.",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Statistical noise and errors in the data need to be corrected.",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Model performance also depends on the quality of data.",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             }
         ]
     },
@@ -37,22 +37,22 @@
             {
                 "answer": "Data transformation",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Feature selection",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Feature engineering",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Dimensionality reduction",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             }
         ]
     }

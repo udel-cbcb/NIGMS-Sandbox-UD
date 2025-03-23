@@ -11,12 +11,12 @@
             {
                 "answer": "Training data",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Validation data",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             }
         ]
     },
@@ -32,12 +32,12 @@
             {
                 "answer": "Learning rate",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Different kernels in Support Vector Machine algorithm",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             }
         ]
     },
@@ -53,17 +53,17 @@
             {
                 "answer": "High bias, low variance",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Low bias, high variance",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Low bias, low variance",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             }
         ]
     }

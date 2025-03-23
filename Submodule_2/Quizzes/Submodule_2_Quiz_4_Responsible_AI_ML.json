@@ -11,17 +11,17 @@
             {
                 "answer": "Fairness",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Explainability",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Discrimination",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     },
@@ -37,17 +37,17 @@
             {
                 "answer": "Historical Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Automation Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Selection Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     },
@@ -63,17 +63,17 @@
             {
                 "answer": "Reporting Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Participation Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Sampling Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     },
@@ -89,17 +89,17 @@
             {
                 "answer": "Reporting Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Participation Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Selection Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     },
@@ -115,17 +115,17 @@
             {
                 "answer": "Reporting Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Participation Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Automation Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     },
@@ -141,17 +141,17 @@
             {
                 "answer": "Reporting Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Sampling Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Automation Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     },
@@ -167,17 +167,17 @@
             {
                 "answer": "Reporting Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Selection Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Automation Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     },
@@ -193,17 +193,17 @@
             {
                 "answer": "Implict Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Confirmation Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Automation Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     },
@@ -219,17 +219,17 @@
             {
                 "answer": "Reporting Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Confirmation Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Sampling Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     },
@@ -245,17 +245,17 @@
             {
                 "answer": "Reporting Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Out-group Homogeneity Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Sampling Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     },
@@ -271,17 +271,17 @@
             {
                 "answer": "Reporting Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Implicit Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Sampling Bias",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     }

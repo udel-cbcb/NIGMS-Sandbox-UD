@@ -11,17 +11,17 @@
             {
                 "answer": "Hyperparameter Tunning",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Model Selection",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Data Augmentation",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     },
@@ -37,17 +37,17 @@
             {
                 "answer": "Faster development and deployment",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Enhanced interpretability",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Reduced Reliance on Complex Models",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     },

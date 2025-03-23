@@ -11,17 +11,17 @@
             {
                 "answer": "Perform better with more data over time.",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "More complex and high-level features and concepts are derived from simpler, low-level features.",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Hierarchical layered representation of concepts",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             }
         ]
     },
@@ -37,17 +37,17 @@
             {
                 "answer": "Dropout rate",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Number of epochs",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Learning rate",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             }
         ]
     },
@@ -63,17 +63,17 @@
             {
                 "answer": "Transformer",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Convolutional Neural Network",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Recurrent Neural Network",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     }

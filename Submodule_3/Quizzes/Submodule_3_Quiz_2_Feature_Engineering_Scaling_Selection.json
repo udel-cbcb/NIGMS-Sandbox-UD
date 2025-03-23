@@ -11,17 +11,17 @@
             {
                 "answer": "Min-Max",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Robust",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Binning",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             }
         ]
     },
@@ -37,17 +37,17 @@
             {
                 "answer": "Dummy encoding",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             },
             {
                 "answer": "Quantization",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Feature hashing",
                 "correct": false,
-                "feedback": "Incorrecct."
+                "feedback": "Incorrect."
             }
         ]
     },
@@ -63,12 +63,12 @@
             {
                 "answer": "Wrapper method",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             },
             {
                 "answer": "Embedded method",
                 "correct": true,
-                "feedback": "Correcct."
+                "feedback": "Correct."
             }
         ]
     }
