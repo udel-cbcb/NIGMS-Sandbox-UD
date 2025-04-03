@@ -4,7 +4,6 @@
 ## **Contents**
 
 - [Practical Data-Centric AI/ML for Biomedical Researchers](#practical-data-centric-aiml-for-biomedical-researchers)
-	- [**Contents**](#contents)
 	- [**Overview**](#overview)
 	- [**Background**](#background)
 	- [**Software Requirements**](#software-requirements)
