@@ -4,7 +4,6 @@
 ## **Contents**
 
 - [Practical Data-Centric AI/ML for Biomedical Researchers](#practical-data-centric-aiml-for-biomedical-researchers)
-	- [**Contents**](#contents)
 	- [**Overview**](#overview)
 	- [**Background**](#background)
 	- [**Software Requirements**](#software-requirements)
@@ -26,9 +25,9 @@ The landscape of biomedical research is experiencing a fundamental shift, transi
 
 ## **Software Requirements**
 
-These notebooks were designed to be used on AWS cloud computing platforms, with the aim of requiring nothing but the files within this GitHub repository. Therefore, software requirements should only require creation of SageMaker Notebook Instance and the downloading of this GitHub's files to that machine.
+These notebooks were designed to be used on AWS cloud computing platforms, with the aim of requiring nothing but the files within this GitHub repository. Therefore, software requirements should only require creation of SageMaker AI Notebook Instance and the downloading of this GitHub's files to that machine.
 
-For more information on creating a virtual machine and downloading our GitHub repo to that machine, we have a before starting and getting started section below. Currently this section only includes information on how to do this using SageMaker on AWS Cloud Platform.
+For more information on creating a virtual machine and downloading our GitHub repo to that machine, we have a before starting and getting started section below. Currently this section only includes information on how to do this using SageMaker AI on AWS Cloud Platform.
 
 ## **Before Starting**
 1. Create an AWS Account:
@@ -36,10 +35,10 @@ For more information on creating a virtual machine and downloading our GitHub re
 * If you have a NIH Cloud Lab account, you can use that account.
 * If you don't have NIH Cloud Labe account, you can sign up for a personel AWS account. You may need to provide credit card information, but you can often start with a free tier that offers a certain amount of free usage.
 
-2. Launch a SageMaker Notebook Instance:
+2. Launch a SageMaker AI Notebook Instance:
 
 * Log into the AWS Management Console.
-* Search for "SageMaker" and open the SageMaker service.
+* Search for "SageMaker AI" and open the SageMaker AI service.
 * Click on "Notebook Instances" and then "Create Notebook Instance".
 * Instance Name: Give your instance a descriptive name.
 * Instance Type: Choose a suitable instance type based on your computational needs. For basic data exploration and model training, a general-purpose instance like ml.t2.medium is sufficient.
@@ -49,11 +48,9 @@ For more information on creating a virtual machine and downloading our GitHub re
 * Additional Configurations: Review and adjust other settings as needed, such as IAM roles and kernel configurations.
 * Click "Create Notebook Instance".
 
-You can also follow this documentation: [How to Create AWS SageMaker Notebooks](https://github.com/NIGMS/NIGMS-Sandbox/blob/main/docs/HowToCreateAWSSagemakerNotebooks.md).
-
 3. Access Your Notebook Instance:
 
-* Once the instance is created, you can access it through the SageMaker console or directly via a web browser using the provided URL.
+* Once the instance is created, you can access it through the SageMaker AI console or directly via a web browser using the provided URL.
 
 4. Set Up Your Environment:
 
@@ -64,7 +61,7 @@ You can also follow this documentation: [How to Create AWS SageMaker Notebooks](
 **Note**:You can use a normal sized AWS instance machine for most submodules (e.g. ml.t3.medium), but for Submodule 5 Exercise 2, you will need to provision a GPU-enabled instance type. (e.g., g4dn.xlarge or p3.2xlarge for CUDA support, 50GB storage).
 
 ## **Getting Started**
-1. Open a Terminal in Your SageMaker Notebook Instance, navigate to the Terminal tab in your SageMaker notebook instance.
+1. Open a Terminal in Your SageMaker AI Notebook Instance, navigate to the Terminal tab in your SageMaker AI notebook instance.
 
 2. Clone the Repository using the git clone command to clone our GitHub repository: 
 
