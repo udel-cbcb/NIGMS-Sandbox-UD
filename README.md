@@ -43,9 +43,9 @@ For more information on creating a virtual machine and downloading our GitHub re
 * Instance Name: Give your instance a descriptive name.
 * Instance Type: Choose a suitable instance type based on your computational needs. For basic data exploration and model training, a general-purpose instance like ml.t2.medium is sufficient.
 * Notebook Instance Platform: Select the latest version of Jupyter Notebook.
-* Storage: Configure the storage volume size for your instance.
-* Network and Security: Set up appropriate network access and security groups to protect your instance.
-* Additional Configurations: Review and adjust other settings as needed, such as IAM roles and kernel configurations.
+* Storage: Configure the storage volume size for your instance (under "Additional Configureation").
+* Network and Security: Set up appropriate network access and security groups to protect your instance. (Use default)
+* Additional Configurations: Review and adjust other settings as needed, such as IAM roles and kernel configurations (User default).
 * Click "Create Notebook Instance".
 
 3. Access Your Notebook Instance:
