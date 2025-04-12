@@ -199,8 +199,8 @@ Text and materials are licensed under a Creative Commons CC-BY-NC-SA license. Th
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## **Contributors** 
-The content of this training module was contributed by [Chuming Chen](mailto:chenc@udel.edu), [Cecilia Arighi](mailto:arighi@udel.edu), [Ryan Moore](mailto:moorer@udel.edu), [Alexa Bennett](mailto:aprange@udel.edu), [Amelia Harrison](mailto:aoh@udel.edu), and [Shawn Polson](mailto:polson@udel.edu).
+The content of this training module was contributed by [Chuming Chen](mailto:chenc@udel.edu), [Cecilia Arighi](mailto:arighi@udel.edu), [Ryan Moore](mailto:moorer@udel.edu), [Amelia Harrison](mailto:aoh@udel.edu), and [Shawn Polson](mailto:polson@udel.edu).
 
 ## **Acknowledgement**
-We would like to thank Sylvia Kinya, Aaron Onserio and Deloitte team for reviewing and testing our module.
+We would like to thank Alexa Bennett, Sylvia Kinya, Aaron Onserio and Deloitte team for reviewing and testing our module.
 
