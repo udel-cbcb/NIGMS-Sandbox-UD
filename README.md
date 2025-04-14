@@ -60,7 +60,7 @@ For more information on creating a virtual machine and downloading our GitHub re
 * Import Libraries: Import the required libraries into your Python scripts or notebooks.
 * Connect to Data Sources: Configure your instance to access data from various sources like S3 buckets, databases, or public datasets.
 
-**Note**:You can use a normal sized AWS instance machine for most submodules (e.g. ml.t3.medium), but for Submodule 5 Exercise 2, you will need to provision a GPU-enabled instance type. (e.g., g4dn.xlarge or p3.2xlarge for CUDA support, 50GB storage).
+**Note**:You can use a normal sized AWS instance machine for most submodules (e.g. ml.t3.medium), but for Submodule 5 Exercise 2, you will need to provision a GPU-enabled instance type. (e.g., g4dn.xlarge for CUDA support, 50GB storage).
 
 ## **Getting Started**
 1. Open a Terminal in Your SageMaker AI Notebook Instance, navigate to the Terminal tab in your SageMaker AI notebook instance.
