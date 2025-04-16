@@ -80,7 +80,7 @@ We have five notebooks, each for a submodule.  From the Notebook Interface:
 
 4. Notebook layout
 
-Each notebook starts with some video lectures about the topics and quizzess to evaluate your understanding. Each notebooks also have some tutorials to help you learn how to implement the concepts and methods introduced in the lectures in Python code. We also provide Exercises (Solutions) for you to practice and check your own work.
+Each notebook starts with some video lectures about the topics and quizzes to evaluate your understanding. Each notebooks also have some tutorials to help you learn how to implement the concepts and methods introduced in the lectures in Python code. We also provide Exercises (Solutions) for you to practice and check your own work.
 
 ## **Architecture Design**
 
