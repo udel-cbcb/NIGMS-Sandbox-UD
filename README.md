@@ -78,6 +78,20 @@ We have five notebooks, each for a submodule.  From the Notebook Interface:
 * Select python3 kernel if not specified in the submodule notebook.
 * Run the cells sequentially or selectively using the "Run" button or keyboard shortcut (usually Shift+Enter).
 
+**Note**
+
+If you encounter kernel crash or package installation failure. You can manually remove and recreate Environment.
+- In a terminal, remove the broken environment:
+```
+conda env remove -n python3
+```
+- Recreate it by copying from the factory environment:
+```
+cp -r /home/ec2-user/anaconda3/envs/JupyterSystemEnv /home/ec2-user/anaconda3/envs/python3
+```
+- Restart the Jupyter kernel.
+
+
 4. Notebook layout
 
 Each notebook starts with some video lectures about the topics and quizzes to evaluate your understanding. Each notebooks also have some tutorials to help you learn how to implement the concepts and methods introduced in the lectures in Python code. We also provide Exercises (Solutions) for you to practice and check your own work.
