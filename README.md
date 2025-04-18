@@ -67,30 +67,29 @@ For more information on creating a virtual machine and downloading our GitHub re
 
 2. Clone the Repository using the git clone command to clone our GitHub repository: 
 
-```
-git clone https://github.com/udel-cbcb/NIGMS-Sandbox-UD.git
-```
+    ```
+    git clone https://github.com/udel-cbcb/NIGMS-Sandbox-UD.git
+    ```
 
 3. Run the notebooks
 
-We have five notebooks, each for a submodule.  From the Notebook Interface:
-* Open the desired notebook file (e.g. submodule_1.ipynb) from the Jupyter Notebook interface.
-* Select python3 kernel if not specified in the submodule notebook.
-* Run the cells sequentially or selectively using the "Run" button or keyboard shortcut (usually Shift+Enter).
+    We have five notebooks, each for a submodule.  From the Notebook Interface:
+    * Open the desired notebook file (e.g. submodule_1.ipynb) from the Jupyter Notebook interface.
+    * Select python3 kernel if not specified in the submodule notebook.
+    * Run the cells sequentially or selectively using the "Run" button or keyboard shortcut (usually Shift+Enter).
 
-**Note**
+    **Note**
 
-If you encounter kernel crash or package installation failure. You can manually remove and recreate Environment.
-- In a terminal, remove the broken environment:
-```
-conda env remove -n python3
-```
-- Recreate it by copying from the factory environment:
-```
-cp -r /home/ec2-user/anaconda3/envs/JupyterSystemEnv /home/ec2-user/anaconda3/envs/python3
-```
-- Restart the Jupyter kernel.
-
+    If you encounter kernel crash or package installation failure. You can manually remove and recreate Environment.
+    - In a terminal, remove the broken environment:
+    ```
+    conda env remove -n python3
+    ```
+    - Recreate it by copying from the factory environment:
+    ```
+    cp -r /home/ec2-user/anaconda3/envs/JupyterSystemEnv /home/ec2-user/anaconda3/envs/python3
+    ```
+    - Restart the Jupyter kernel.
 
 4. Notebook layout
 
