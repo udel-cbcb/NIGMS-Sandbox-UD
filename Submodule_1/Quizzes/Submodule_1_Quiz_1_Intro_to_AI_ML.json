@@ -151,32 +151,6 @@
         ]
     },
     {
-        "question": "Which one of the following is not supervised learning?",
-        "type": "multiple_choice",
-        "answers": [
-            {
-                "answer": "Linear regression",
-                "correct": false,
-                "feedback": "Incorrect."
-            },
-            {
-                "answer": "Decision Tree",
-                "correct": false,
-                "feedback": "Incorrect."
-            },
-            {
-                "answer": "Support Vector Machine",
-                "correct": false,
-                "feedback": "Incorrect."
-            },
-            {
-                "answer": "Principal Component Analysis",
-                "correct": true,
-                "feedback": "Correct."
-            }
-        ]
-    },
-    {
         "question": "True or False? One of the difference between supervised and unsupervised learning is that the supervised learning uses labeled data",
         "type": "multiple_choice",
         "answers": [
